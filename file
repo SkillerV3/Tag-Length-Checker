@@ -1,0 +1,1 @@
+javascript:( function() { function f() { var tag=prompt("enter a tag",""); var s=document.getElementsByTagName(tag); var c= s.length; window.alert(c); } f(); } )();
